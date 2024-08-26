@@ -81,6 +81,7 @@ The simulated Vout Vin graph  done using NGSPICE is shown below:
 ![Vin versus Vout](Images/Vout_vin_combination.png) 
 
 The Image shown above can be ploted by just typing :
+   plot vin vout
 
 
 
