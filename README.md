@@ -62,7 +62,7 @@ The width of MOSFET :
     
 This Schematic layout is transformed into symbol. Ths symbol of NOT GATE is shown below : 
 ![symbol](Images/Inverter_symbol.png)
- shift .
+ 
 The complete inverter Representation is shown below:
 ![inverter_cmos](Images/symbolfull.png)
 
@@ -72,7 +72,7 @@ Check whether there is error or not using NETLIST tool
 ![netlist](Images/inverter_netlist_vin_vout_____1png)
 
 
-Next After that Clisck on Simulation Tool
+Now Click on Simulation Tool
 
 ![Simulation](Images/display_simulation__--1.png)
 
@@ -85,6 +85,7 @@ The Image shown above can be ploted by just typing :
 
 
 The command needed to type in the simulation window of xterm terminal to get gain, can be seen in the images.
+
 ![Gain](Images/Vin_Vout_gain.png)
 
 ![Gain/vout](Images/vout_gain_combine.png)
