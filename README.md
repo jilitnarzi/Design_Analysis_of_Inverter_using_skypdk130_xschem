@@ -57,7 +57,10 @@ The Schematic layout for the inverter design using skywater pdk 130 models in Xs
 ![Inverter](Images/INVERTER_VTC.png)
 
 
-The width of MOSFET :
+The width of MOSFET :NML(Noise Margin for Low) - VIL - VOL
+NMH(Noise Margin for HIGH) - VOH - VIH
+
+So for our calculated values, the device would have, NML = 0.74V and NML = 0.82V.
 
     PMOS  = 2
     NMOS = 1
@@ -85,7 +88,10 @@ The simulated Vout Vin graph  done using NGSPICE is shown below:
 
 The Image shown above can be ploted by just typing :
 
-    plot vout vin 
+    plot vout vin NML(Noise Margin for Low) - VIL - VOL
+NMH(Noise Margin for HIGH) - VOH - VIH
+
+So for our calculated values, the device would have, NML = 0.74V and NML = 0.82V.
 in the simulation window.
 
  
@@ -108,13 +114,15 @@ The values Obatined finally is shown below:
     VoL            0
     ViL            0.74
     ViH            0.98
+    
+
+NML(Noise Margin for Low) - VIL - VOL
+NMH(Noise Margin for HIGH) - VOH - VIH
+
+So for our calculated values, the device would have, NML = 0.74V and NML = 0.82V.
 
 
-The value for propogation delay and the rise time and the fall time is shown below:
 
-    propogation delay :
-    Rise time :
-    Fall time :
 
 
 
