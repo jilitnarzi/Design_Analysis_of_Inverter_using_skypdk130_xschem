@@ -93,6 +93,8 @@ in the simulation window.
 The command needed to type in the simulation window of xterm terminal to get gain, can be seen in the images.
 ![Gain](Images/Vin_Vout_gain.png)
 
+![Gain/vout](Images/vout_gain_combine.png)
+
 
 
 
