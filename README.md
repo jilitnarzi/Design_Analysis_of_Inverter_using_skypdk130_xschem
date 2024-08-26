@@ -66,6 +66,9 @@ The width of MOSFET :
 This Schematic layout is transformed into symbol. Ths symbol of NOT GATE is shown below : 
 ![symbol](Images/Inverter_symbol.png)
 
+The complete inverter Representation is shown below:
+![inverter_cmos](Images/plot.xpm)
+
 
 The simulation images done using NGSPICE is shown below: 
 ![Vin versus Vout](Images/Vout_vin_combination.png) 
