@@ -57,7 +57,7 @@ The Schematic layout for the inverter design using skywater pdk 130 models in Xs
 ![Inverter](Images/INVERTER_VTC.png)
 
 This Schematic layout is transformed into symbol> Ths symbol image is shown below : 
-1[symbol](Images/Inverter_symbol.png)
+![symbol](Images/Inverter_symbol.png)
 
 
 The schematic image created using Xschem is shown below :
