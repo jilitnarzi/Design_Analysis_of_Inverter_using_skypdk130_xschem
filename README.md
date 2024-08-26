@@ -121,6 +121,10 @@ NMH(Noise Margin for HIGH) - VOH - VIH
 
 So for our calculated values, the device would have, NML = 0.74V and NML = 0.82V.
 
+The propogation delay for the First Fall of Outut and First Rise of Input is shown below:
+
+![tphl](Images/Tphl_propogation_delay.png)
+
 
 
 
