@@ -6,7 +6,6 @@ The main motive of this project is to understand the working of an inverter and 
 
 The design of inverter is done by utilizing the models that are present under the **skywater 130nm pdk** and  various kinds of open source tools. They are **Xschem**, **NGSPICE** etc.
 
-Lets get started...............
 
 ## Contents
 
