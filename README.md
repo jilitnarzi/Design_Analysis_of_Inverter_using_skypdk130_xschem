@@ -47,7 +47,7 @@ See this video: [video link](https://www.youtube.com/watch?v=VCuyO7Chvc8&list=PL
 
 
 
-
+ shift .
 ## CMOS- Inverter
 **WHAT is CMOS**
 
@@ -68,7 +68,7 @@ So for our calculated values, the device would have, NML = 0.74V and NML = 0.82V
     
 This Schematic layout is transformed into symbol. Ths symbol of NOT GATE is shown below : 
 ![symbol](Images/Inverter_symbol.png)
-
+ shift .
 The complete inverter Representation is shown below:
 ![inverter_cmos](Images/symbolfull.png)
 
@@ -103,7 +103,7 @@ The command needed to type in the simulation window of xterm terminal to get gai
 
 
 
-
+ shift .
 
 The values Obatined finally is shown below:
 
@@ -121,10 +121,10 @@ NMH(Noise Margin for HIGH) - VOH - VIH
 
 So for our calculated values, the device would have, NML = 0.74V and NML = 0.82V.
 
-The propogation delay for the First Fall of Outut and First Rise of Input is shown below:
+The propogation delay for the First Fall of Output and First Rise of Input is shown below:
 
 ![tphl](Images/Tphl_propogation_delay.png)
-
+ shift .
 
 
 
