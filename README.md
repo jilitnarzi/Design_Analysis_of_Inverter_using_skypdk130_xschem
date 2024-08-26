@@ -100,17 +100,15 @@ The command needed to type in the simulation window of xterm terminal to get gai
 
 
 The values Obatined finally is shown below:
+
 ![vilow_vihigh](Images/Vil_Vih_threshold_value.png)
 
     Variable      Values   
+    VoH            1.8
+    VoL            0
+    ViL            0.74
+    ViH            0.98
 
-
-
-    ]
-    .
-    .
-    .
-    .
 
 The value for propogation delay and the rise time and the fall time is shown below:
 
