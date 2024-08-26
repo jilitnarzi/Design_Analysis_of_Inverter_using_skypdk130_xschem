@@ -70,6 +70,11 @@ The complete inverter Representation is shown below:
 ![inverter_cmos](Images/plot.xpm)
 
 
+Check whether there is error or not using NETLIST tool
+![netlist](inverter_netlist_vin_vout_____1png)
+
+Next After that Clisck on Simulation Tool
+![Simulation](display_simulation__--1)
 The simulation images done using NGSPICE is shown below: 
 ![Vin versus Vout](Images/Vout_vin_combination.png) 
 
