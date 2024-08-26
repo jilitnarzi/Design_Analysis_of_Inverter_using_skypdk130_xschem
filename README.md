@@ -79,7 +79,7 @@ Next After that Clisck on Simulation Tool
 
 ![Simulation](Images/display_simulation__--1.png)
 
-The simulation images done using NGSPICE is shown below: 
+The simulated Vout Vin graph  done using NGSPICE is shown below: 
 
 ![Vin versus Vout](Images/Vout_vin_combination.png) 
 
