@@ -56,7 +56,7 @@ The image is shown below :
 
 
 The schematic image created using Xschem is shown below :
-![Vin versus Vout]() 
+![Vin versus Vout](Images/Vout_vin_combination.png)
 
 
 The NOT Gate symbol created schematic is given below:
