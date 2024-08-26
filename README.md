@@ -2,7 +2,7 @@
 # Design_Analysis_of_Inverter_using_skypdk130_xschem
 
 
-The main motive of this project is to understand the working of an inverter and understand all the parameters that is involved in the inverter. 
+The main motive of this project is to understand the working of an inverter and understand the parameters that are involved in the inverter. 
 
 The design of inverter is done with the models that are present under the **skywater 130nm pdk** using various kinds of open source tools. They are **Xschem**, **NGSPICE** etc.
 
