@@ -90,7 +90,7 @@ in the simulation window.
 
  
 
-The command needed to type in the simulation window of xterm terminal to get gain, can be seen in the images .
+The command needed to type in the simulation window of xterm terminal to get gain, can be seen in the images.
 
 
 
