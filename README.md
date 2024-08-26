@@ -71,11 +71,16 @@ The complete inverter Representation is shown below:
 
 
 Check whether there is error or not using NETLIST tool
+
 ![netlist](Images/inverter_netlist_vin_vout_____1png)
 
+
 Next After that Clisck on Simulation Tool
+
 ![Simulation](Images/display_simulation__--1.png)
+
 The simulation images done using NGSPICE is shown below: 
+
 ![Vin versus Vout](Images/Vout_vin_combination.png) 
 
 The Image shown above can be ploted by just typing :
@@ -83,7 +88,7 @@ The Image shown above can be ploted by just typing :
     plot vout vin 
 in the simulation window.
 
-The simulation images are shown: 
+ 
 
 The command needed to type in the simulation window of xterm terminal to get gain, can be seen in the images .
 
