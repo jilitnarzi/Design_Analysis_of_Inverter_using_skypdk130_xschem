@@ -67,7 +67,7 @@ This Schematic layout is transformed into symbol. Ths symbol of NOT GATE is show
 ![symbol](Images/Inverter_symbol.png)
 
 The complete inverter Representation is shown below:
-![inverter_cmos](Images/plot.xpm)
+![inverter_cmos](Images/symbolfull.png)
 
 
 Check whether there is error or not using NETLIST tool
