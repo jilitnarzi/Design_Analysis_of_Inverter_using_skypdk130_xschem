@@ -69,6 +69,7 @@ This Schematic layout is transformed into symbol. Ths symbol of NOT GATE is show
 
 The simulation images done using NGSPICE is shown below: 
 ![Vin versus Vout](Images/Vout_vin_combination.png) 
+
 The Image shown above can be ploted by just typing :
 
     plot vout vin 
