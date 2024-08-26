@@ -67,10 +67,12 @@ This Schematic layout is transformed into symbol. Ths symbol of NOT GATE is show
 ![symbol](Images/Inverter_symbol.png)
 
 
-The schematic image created using Xschem is shown below :
-![Vin versus Vout](Images/Vout_vin_combination.png)
+The simulation images done using NGSPICE is shown below: 
+![Vin versus Vout](Images/Vout_vin_combination.png) 
+The Image shown above can be ploted by just typing :
 
-
+    plot vout vin 
+in the simulation window.
 
 The simulation images are shown: 
 
