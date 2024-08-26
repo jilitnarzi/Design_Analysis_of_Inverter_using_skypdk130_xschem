@@ -56,7 +56,7 @@ CMOS Circuits generally consists of a network split into two parts, Upper one re
 The Schematic layout for the inverter design using skywater pdk 130 models in Xschem is shown below :
 ![Inverter](Images/INVERTER_VTC.png)
 
-This Schematic layout is transformed into symbol> Ths symbol image is shown below : 
+This Schematic layout is transformed into symbol. Ths symbol image is shown below : 
 ![symbol](Images/Inverter_symbol.png)
 
 
