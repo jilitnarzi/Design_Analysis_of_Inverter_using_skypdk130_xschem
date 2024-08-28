@@ -1,5 +1,5 @@
 
-# Design_Analysis_of_Inverter_using_skypdk130_xschem
+# Design_Analysis_of_Inverter_using_sky130pdk_xschem
 
 
 The main motive of this project is to understand the working of an inverter and understand the parameters that are involved in the inverter. 
